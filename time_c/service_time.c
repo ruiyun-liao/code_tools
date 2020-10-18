@@ -103,7 +103,7 @@ int get_timezone()
 }
 
 
-
+/*
 int main()
 {
     service_time_t time;
@@ -133,4 +133,4 @@ int main()
     
     return 0;
 }
-
+*/
